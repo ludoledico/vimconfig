@@ -6,6 +6,9 @@ set textwidth=80
 set autoindent
 set cindent
 
+"	De-activating search hightlight
+set nohlsearch
+
 set showmatch
 set colorcolumn=81
 
