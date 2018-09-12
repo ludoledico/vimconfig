@@ -1,6 +1,7 @@
 set number
 set ruler
 set textwidth=80
+set noswapfile
 
 "	Indentation options
 set autoindent
