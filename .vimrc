@@ -1,4 +1,3 @@
-autocmd VimEnter * source %
 autocmd VimEnter * PlugInstall
 
 set number
