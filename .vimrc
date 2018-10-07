@@ -1,9 +1,11 @@
 autocmd VimEnter * PlugInstall
 
 set number
+set showcmd
 set ruler
 set textwidth=80
 set noswapfile
+set cursorline
 
 "	Indentation options
 set autoindent
